@@ -1,8 +1,7 @@
 {
     "require-dev": {
         "behat/behat": "~3.0",
-        "phpspec/phpspec": "~2.1",
-        "bossa/phpspec2-expect": "dev-master"
+        "phpspec/phpspec": "~2.4"
     },
     "autoload": {
         "psr-0": { "": "src" }
